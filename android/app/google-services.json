@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692617953692",
+    "project_id": "musimood-dba21",
+    "storage_bucket": "musimood-dba21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692617953692:android:17210edf2f7139a02c0859",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692617953692-3312798gi54me3g9av9e882p6a224t9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_app",
+            "certificate_hash": "8133582de5307cc8c5db252269b2c8161db8cb68"
+          }
+        },
+        {
+          "client_id": "692617953692-gql5cd267psq2sim933in1k4d6d9oeqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_app",
+            "certificate_hash": "f7216bf8c96c50cbf18d03f2cf9901cf500c793d"
+          }
+        },
+        {
+          "client_id": "692617953692-a0mun4ft9tl9d0sop78o0cudsutsn6ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWr9PYQlORyxo7aVbp0lPsK6W0_6P8vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692617953692-a0mun4ft9tl9d0sop78o0cudsutsn6ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
